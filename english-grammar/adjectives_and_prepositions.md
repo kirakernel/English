@@ -1,6 +1,6 @@
 # Adjectives and prepositions
 
-![](https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS195_182303961-hig.jpg?itok=SAXptIFM)
+![](https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS195_182303961-hig.jpg)
 
 Do you know how to use adjectives with prepositions like **interested in** or **similar to**? Test 
 what you know with interactive exercises and read the explanation to help you.
