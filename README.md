@@ -10,3 +10,4 @@
 * [Adjectives and Prepositions](/english-grammar/adjectives_and_prepositions.md)
 + [Word: The Definition & Criteria](/english-grammar/word_the_definition_criteria.md)
 - [Grammar Rules Review](/english-grammar/grammar_rules_review.md)
+* [Adjectives ending in **-ed** and **-ing**](/english-grammar/adjectives_ending_in_ed_and_ing.md)
