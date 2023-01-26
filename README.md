@@ -13,4 +13,6 @@
 - [Grammar Rules Review](/english-grammar/grammar_rules_review.md)
 * [Adjectives ending in **-ed** and **-ing**](/english-grammar/adjectives_ending_in_ed_and_ing.md)
 + [Articles 1](/english-grammar/articles1.md)
-* [Articles 2](/english-grammar/articles2.md)
+- [Articles 2](/english-grammar/articles2.md)
+* [All 12 English Tenses in 1 Hour! + Test](/english-grammar/all_12_english_tenses_in_an_hour.md)
+
