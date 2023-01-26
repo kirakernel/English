@@ -1,4 +1,4 @@
-# All 12 English Tenses in 1 Hour! + Test
+# All 12 English Tenses in 1 Hour
 
 ## General Overview
 
@@ -20,7 +20,7 @@
 + future perfect **- _subject_ + will have + past participle**
 + future perfect continuos **- _subject_ + will have been + ing**
 
-## Gramatical Structure - Simple
+## Grammatical Structures - Simple
 
 ### Past Simple
 - subject + **past simple verb**
@@ -42,7 +42,7 @@
   - I **will not wake yup** at 6 a.m. every morning.
   - **Will you wake up** at 6 a.m. every morning?
 
-## Gramatical Structure - Continuous
+## Grammatical Structures - Continuous
 
 ### Past Continuous
 - subject + **was/were + verb ing**
@@ -61,3 +61,43 @@
   - I **will be talking to** you.
   - I **will not be talking** to you.
   - **Will you be talking** to me?
+
+## Grammatical Structures - Perfect
+
+### Past Perfect
+- subject + **had + past participle**
+  * I **had eaten** at Rosario's.
+  * I **had not eaten** at Rosario's.
+  * **Had you eaten** at Rosario's?
+
+### Present Perfect
+* subject + **have/has + past participle**
+  + I **have eaten** at Rosario's.
+  + I **have not eaten** at Rosario's.
+  + **Have you eaten** at Rosario's?
+
+### Future Perfect
++ subject + **will have + past participle**
+  - I **will have eaten** at Rosario's.
+  - I **will not have eaten** at Rosario's.
+  - **Will you have eaten** at Rosario's?
+
+## Grammatical Strutures - Perfect Continuous
+
+### Past Perfect Continuous
+- subject + **had + been + verb ing**
+  * The pie **had been baking**.
+  * The pie **had not been baking**.
+  * **Had the pie been baking**?
+
+### Present Perfect Continuous
+* subject + **have/has + been + verb ing**
+  + The pie **has been baking**.
+  + The pie **has not been baking**.
+  + **Has the pie been** baking?
+
+### Future Perfect Continuous
++ subject + **will have + been + verb ing**
+  - The pie **will have been baking**.
+  - The pie **will not have been baking**.
+  - **Will the pie have been baking**?
