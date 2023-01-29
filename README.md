@@ -19,5 +19,6 @@
 * [Comparative adjectives](/english-grammar/comparative_adjectives.md)
 * [Countable and Uncountable nouns 1](/english-grammar/countable_and_uncountable_nouns1.md)
 * [Countable and Uncountable nouns 2](/english-grammar/countable_and_uncountable_nouns2.md)
+* [Past Continuous and Past Simple](/english-grammar/past_continuous_and_past_simple.md)
 * [All 12 English Tenses in 1 Hour](/english-grammar/all_12_english_tenses_in_an_hour.md)
 
