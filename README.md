@@ -7,6 +7,7 @@
 - [Ukraine deputy minister sacked for alleged theft of $400,000](/articles/en/ukraine_deputy_minister_sacked_for_alleged_theft_of_400000.md)
 - [Quebec woman pleads guilty to mailing poisonous ricin to Donald Trump](/articles/en/quebec_woman_guilty_mailing_ricin_donald_trump.md)
 - [AP apologises and deletes widely mocked tweet about 'the French'](/articles/en/ap_issues_clarification_over_its_advice_not_to_use_term_the_french.md)
+- [Pakistan: dozens killed in mosque blast in Peshawar](/articles/en/pakistan_mosque_explosion_kills_worshippers_peshawar.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
