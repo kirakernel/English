@@ -50,7 +50,7 @@ They work at home.	| They don't work at home.	| Do they work at home?
 
 ### Short answers
 
-We can answer questions with **Yes, I/you/we/they do**, 88Yes, he/she/it does**, or **No, I/you/we/they don't** or **No, he/she/it doesn't**.
+We can answer questions with **Yes, I/you/we/they do**, **Yes, he/she/it does**, or **No, I/you/we/they don't** or **No, he/she/it doesn't**.
 
 * **Do you like** cheese? 
   - Yes, I **do**.
