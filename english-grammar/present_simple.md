@@ -39,7 +39,7 @@ For questions, we use **do or does**.
 - **Do you watch** a lot of films?
 - **Does he speak** English?
 
-+ Affirmative |	- Negative	| ? Question
+|+ Affirmative |	- Negative	| ? Question
 |-------------|-------------|-----------
 I like ice cream.	| I don't like ice cream.	| Do I like ice cream?
 You go to the gym.	| You don't go to the gym.	| Do you go to the gym?
