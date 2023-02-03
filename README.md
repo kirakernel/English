@@ -9,6 +9,7 @@
 - [AP apologises and deletes widely mocked tweet about 'the French'](/articles/en/ap_issues_clarification_over_its_advice_not_to_use_term_the_french.md)
 - [Pakistan: dozens killed in mosque blast in Peshawar](/articles/en/pakistan_mosque_explosion_kills_worshippers_peshawar.md)
 - [Tiny radioactive capsule lost in Australian outback found by side of 1,400km stretch road](/articles/en/tiny_radioactive_capsule_lost_in_australian_outback_found_by_side_of_1400km_stretch_of_road.md)
+- [FTSE 100 hits record high](/articles/en/ftse_100_hits_record_high.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
