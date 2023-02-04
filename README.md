@@ -28,5 +28,6 @@
 * [Present Simple - To Be](/english-grammar/present_simple_to_be.md)
 * [Question Forms](/english-grammar/question_forms.md)
 * [Verbs Followed by **-ing** or by **to + Infinitive**](/english-grammar/verbs_followed_by_ing_or_by_to_infinitive_1.md)
+* [AS and Like](/english-grammar/as_and_like.md)
 * [All 12 English Tenses in 1 Hour](/english-grammar/all_12_english_tenses_in_an_hour.md)
 
