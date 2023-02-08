@@ -32,7 +32,7 @@
 * [Verbs Followed by **-ing** or by **to + Infinitive**](/english-grammar/verbs_followed_by_ing_or_by_to_infinitive_1.md)
 * [AS and Like](/english-grammar/as_and_like.md)
 * [Enough](/english-grammar/enough.md)
-
 * [In Spite of, Despite, Although, Even Though and Though](/english-grammar/in_spite_of_despite_although_even_though_and_though.md)
+* [Just, Yet, Still, and Already](/english-grammar/just_yet_still_and_already.md)
 * [All 12 English Tenses in 1 Hour](/english-grammar/all_12_english_tenses_in_an_hour.md)
 
