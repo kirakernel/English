@@ -34,8 +34,6 @@ Alphabet, whose main business is Google, is **coming off** a disappoingting four
 
 "People are starting to question: is Microsoft going to be a formidable competitor now against Google's really **bread-and-butter** business? said King Lip, the chief strategist at Baker Wealth Management, which owns Alphabet and Microsoft shares.
 
-Lip cautioned that concerns about Alphabet may be overblown, saying: “I think still Bing is a far, far cry away from Google’s search capabilities.”
-
 Lip cautioned that concerns about Alphabet may be **overblown**, saying: "I think still Bing is a far, far **cry away** from Google's search capabilities."
 
 
