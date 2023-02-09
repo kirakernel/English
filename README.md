@@ -12,6 +12,7 @@
 - [FTSE 100 hits record high](/articles/en/ftse_100_hits_record_high.md)
 - [Nicola Bulley: family friends condemn 'vile' theories as search continues](/articles/en/nicola_bulley_family_friends_condemn_vile_theories_as_search_for_missing_woman_continues.md)
 - [Nicola Bulley: police urge public not to 'take law into their own hands' in search](/articles/en/nicola_bulley_police_urge_public_not_to_take_law_into_their_own_hands_in_search.md)
+- [Google AI chatbot Bard sends shares plummeting after it gives wrong answer](/articles/en/google_ai_chatbot_bard_error_sends_shares_plummeting_in_battle_with_microsoft.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
