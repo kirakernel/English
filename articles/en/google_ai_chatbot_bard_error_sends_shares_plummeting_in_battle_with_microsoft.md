@@ -14,7 +14,7 @@ Experts pointed out that promotional material for Bard, Google's competitor to M
 
 Bard's response - in a video demo posted online- includes an answer suggesting the JWST was used to take the very first pictures of a planet outside the Earth's solar system, or **exoplanets**.
 
-The error was picked up by experts including Grant Templay, an astrophysicist at the US Center for Astrophysics, who tweeted: "Not to be a ~well, actually~ **jerk**, and I'm sure Bard will be impressive, but for the record: JWST did not take 'the very first image of a planet outside our solar system'".
+The error was picked up by experts including Grant Templay, an astrophysicist at the US Center for Astrophysics, who tweeted: "Not to be a \~well, actually\~ **jerk**, and I'm sure Bard will be impressive, but for the record: JWST did not take 'the very first image of a planet outside our solar system'".
 
 Bruce Macintosh, the director of University of California Observatories, tweeted: "Speaking as someone who imaged an exoplanet 14 years before JWST was launched, it feels like you should find a better example?"
 
