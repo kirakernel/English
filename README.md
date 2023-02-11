@@ -13,6 +13,8 @@
 - [Nicola Bulley: family friends condemn 'vile' theories as search continues](/articles/en/nicola_bulley_family_friends_condemn_vile_theories_as_search_for_missing_woman_continues.md)
 - [Nicola Bulley: police urge public not to 'take law into their own hands' in search](/articles/en/nicola_bulley_police_urge_public_not_to_take_law_into_their_own_hands_in_search.md)
 - [Google AI chatbot Bard sends shares plummeting after it gives wrong answer](/articles/en/google_ai_chatbot_bard_error_sends_shares_plummeting_in_battle_with_microsoft.md)
+- [Unidentified object shot down over Alaska by US military, While House says](/articles/en/alaska_us_military_unidentified_object_white_house.md)
+
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
