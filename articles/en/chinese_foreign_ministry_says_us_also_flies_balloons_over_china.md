@@ -28,9 +28,7 @@ On Monday, the Financial Times reported Taiwanese officials claimeing they had d
 
 Dr Shen Ming-Shih, director of the national security research division at Taiwan's Institute for National Defence and Security Research, said it was unlikely that all theses balloons were specifically targeting Taiwan.
 
-“They can use UAV [unmanned aerial vehicles], recon planes, and drones to check on Taiwan. Their radar can also cover Taiwan, so the don’t need to send balloons every month for Taiwan reconnaissance,” Shen said. Instead he suggested they could be on their way elsewhere.
-
-"They can use UAV [unmanned aerial vehicles], **recon** planes, and drones tyo check on Taiwan. Their radar can alson cover Taiwan, so don't need to send ballons every month for Taiwan reconnaissance," Shen said. Instead he suggested they could be on their way **elsewhere**.
+"They can use UAV [unmanned aerial vehicles], **recon** planes, and drones tyo check on Taiwan. Their radar can alson cover Taiwan, so don't need to send ballons every month for Taiwan **reconnaissance**," Shen said. Instead he suggested they could be on their way **elsewhere**.
 
 "If China wants to launch a balloon to the US, Japan, the East China Sea, they all will go near Taiwan."
 
