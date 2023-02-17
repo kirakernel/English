@@ -16,6 +16,7 @@
 - [Unidentified object shot down over Alaska by US military, While House says](/articles/en/alaska_us_military_unidentified_object_white_house.md)
 - [Chinese foreign ministry says US also flies balloons over China](/articles/en/chinese_foreign_ministry_says_us_also_flies_balloons_over_china.md)
 - [Brianna Ghey: two teenagers appear in court charged with murder](/articles/en/brianna_ghey_two_teenagers_charged_murder.md)
+- [At least 18 people found dead in truck near Sofia](/articles/en/people_found_dead_in_truck_near_sofia_bulgaria.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
