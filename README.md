@@ -18,6 +18,7 @@
 - [Brianna Ghey: two teenagers appear in court charged with murder](/articles/en/brianna_ghey_two_teenagers_charged_murder.md)
 - [At least 18 people found dead in truck near Sofia](/articles/en/people_found_dead_in_truck_near_sofia_bulgaria.md)
 - [Body found in search for missing woman Nicola Bullery, say police](/articles/en/nicola_bulley_police_say_body_found_in_search.md)
+- [Publisher of Roald Dahl books in French has 'no plans' for rewrite](/articles/en/publisher_of_roald_dahl_books_in_french_no_plans_for_rewrite.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
