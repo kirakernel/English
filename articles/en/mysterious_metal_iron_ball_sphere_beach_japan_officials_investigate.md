@@ -8,8 +8,6 @@ The sphere, measuring about 1.5 metres in diameter, has been at the centre of **
 
 Fears that it could be a **stray** **mine** were **dismissed** after used **X-ray** technology to **examine** the object's interior and found that it was hollow.
 
-# [STARTING HERE]
-
 There are no indications, either, that it was involved in espionage by nearby North Korea or China.
 
 The presence of two raised handles on the sphere's surface - indicating it can be hooked on to something else - prompted a more **prosaic** explanation: that it is a **mooring buoy** that had simply worked **loose** and **floated off**.
