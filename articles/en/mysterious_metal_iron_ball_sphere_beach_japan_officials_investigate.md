@@ -12,7 +12,7 @@ Fears that it could be a **stray** **mine** were **dismissed** after used **X-ra
 
 There are no indications, either, that it was involved in espionage by nearby North Korea or China.
 
-The preesnce of two raised handles on the sphere's surface - indicating it can be hooked on to something else - prompted a more **prosaic** explanation: that it is a **mooring buoy** that had simply worked **loose** and **floated off**.
+The presence of two raised handles on the sphere's surface - indicating it can be hooked on to something else - prompted a more **prosaic** explanation: that it is a **mooring buoy** that had simply worked **loose** and **floated off**.
 
 Police began inspecting the ball, which is orangey-brown with what appear to be darker **patches** of **rust**, after a local woman spotted it **resting** on the sand just metres from the **shore** while she was out for a walk earlier this week, Asahi TV reported.
 
@@ -20,7 +20,7 @@ Officers **cordoned off** the area and **called in** explosives experts dressed 
 
 Photographs have been sent to the Japanese self-defence forces and coast guard for further examination.
 
-One local man who regularly runs on the beach said he did not understand why the ball had suddenly become the centre of attention. "It's been there for a month," he told public broadcaster NHK. "I tried to push it, bit it wouldn't **budge**."
+One local man who regularly runs on the beach said he did not understand why the ball had suddenly become the centre of attention. "It's been there for a month," he told public broadcaster NHK. "I tried to push it, but it wouldn't **budge**."
 
 At the one point, police **blocked off** a 200-metre radius around the ball while experts tried, unsuccessfully to solve the mystery.
 
