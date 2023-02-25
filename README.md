@@ -20,6 +20,7 @@
 - [Body found in search for missing woman Nicola Bullery, say police](/articles/en/nicola_bulley_police_say_body_found_in_search.md)
 - [Publisher of Roald Dahl books in French has 'no plans' for rewrite](/articles/en/publisher_of_roald_dahl_books_in_french_no_plans_for_rewrite.md)
 - [Spy ballon, UFO or Dragon Ball? Japan baffled by iron ball washep up on beach](/articles/en/mysterious_metal_iron_ball_sphere_beach_japan_officials_investigate.md)
+- [Hong Kong police arrest three after finding remains of model](/articles/en/hong_kong_police_arrest_three_after_finding_remains_of_model_abby_choi.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
