@@ -23,6 +23,7 @@
 - [Hong Kong police arrest three after finding remains of model](/articles/en/hong_kong_police_arrest_three_after_finding_remains_of_model_abby_choi.md)
 - [Dilbert cartoon dropped by US newspapers over creator's racist comments](/articles/en/dilbert_cartoon_dropped_by_us_newspapers_over_creators_racist_comments.md)
 - [Giant Jurassic-era insect rediscovered outside Walmart in Arkansas](/articles/en/giant_lacewing_insect_rediscovered_walmart_arkansas.md)
+- [Ukrainians defending Bakhmut under severe pressure from Russian onslaught](/articles/en/bakhmut_ukraine_russia_donetsk_severe_pressure.md)
 
 
 ## Grammar
