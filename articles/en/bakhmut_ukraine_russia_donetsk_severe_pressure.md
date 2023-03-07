@@ -38,6 +38,5 @@ Russia says it would be a **stepping stone** to completing the capture of the Do
 
 Ukraine's president, Volodymyr Zelenskiy, has described Bakhmut as a "fortress".
 
-“Nobody will give away Bakhmut. We will fight for as long as we can. We consider Bakhmut our fortress,” he told a news conference in Kyiv on 3 February.
-
 "Nobody will give away Bakhmut. We will fight for as long as we can. We consider Bakhumut our fortress," he told a news conference in Kyiv on 3 February. 
+
