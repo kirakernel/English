@@ -25,7 +25,7 @@
 - [Giant Jurassic-era insect rediscovered outside Walmart in Arkansas](/articles/en/giant_lacewing_insect_rediscovered_walmart_arkansas.md)
 - [Ukrainians defending Bakhmut under severe pressure from Russian onslaught](/articles/en/bakhmut_ukraine_russia_donetsk_severe_pressure.md)
 - [Helicopter pilot did not hear radio call in Gold Coast crash that killed four - report](/articles/en/helicopter_crash_report_australia_gold_coast.md)
-
+- [Shell chief's pay package rose by more than 50% to nearly £10m in 2022](/articles/en/shell_chief_ben_van_beurden_pay_2022.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
