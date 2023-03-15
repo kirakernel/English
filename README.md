@@ -27,6 +27,7 @@
 - [Helicopter pilot did not hear radio call in Gold Coast crash that killed four - report](/articles/en/helicopter_crash_report_australia_gold_coast.md)
 - [Shell chief's pay package rose by more than 50% to nearly £10m in 2022](/articles/en/shell_chief_ben_van_beurden_pay_2022.md)
 - [China's BYD blames Brexit as it rules out UK for first electric car plant in Europe](/articles/en/china_byd_blames_brexit_as_it_rules_out_uk_for_first_european_car_plant.md)
+- [South Korea U-turns on 69-hour working week after youth backlash](/articles/en/south_korea_u_turns_on_69_hour_working_week_after_youth_backlash.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
