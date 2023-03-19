@@ -28,6 +28,7 @@
 - [Shell chief's pay package rose by more than 50% to nearly £10m in 2022](/articles/en/shell_chief_ben_van_beurden_pay_2022.md)
 - [China's BYD blames Brexit as it rules out UK for first electric car plant in Europe](/articles/en/china_byd_blames_brexit_as_it_rules_out_uk_for_first_european_car_plant.md)
 - [South Korea U-turns on 69-hour working week after youth backlash](/articles/en/south_korea_u_turns_on_69_hour_working_week_after_youth_backlash.md)
+- [Knock, Kncok, who's there? Alligator bites Florida man after he opens door](/articles/en/florida_alligator_bites_man_door.md)
 
 ## Grammar
 * [Present Simple Tense](/english-grammar/present_simple_tense.md)
