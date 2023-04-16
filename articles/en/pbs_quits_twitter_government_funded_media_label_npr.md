@@ -7,8 +7,6 @@
 
 The US's Public Broadcasting Service, better known as PBS, has quit its use of Twitter after the platform labeled the organization as "**government**-**funded** media".
 
-PBS’s announced its Twitter exit on Thursday, one day after National Public Radio also left the platform amid comments by the Twitter owner, Elon Musk, that NPR was “state-affiliated media” which should be defunded. Twitter has since relabeled NPR as “government-funded media”, but that did not stop the radio broadcaster saying that the labels for it and the television broadcaster PBS were aimed at undermining their credibility as independent news outlets.
-
 PBS's announced its Twitter exit on Thursday, one day after National Public Radio also left the platform amid comments by the Twitter owner, Elon Musk, that NPR was "state-affiliated media" which should be defunded. Twitter has since relabeled NPR as "government-funded media", but that did not stop the radio broadcaster saying that the labels for it and the television broadcaster PBS were aimed at undermining their credibility as independent news **outlets**.
 
 The labels are shared by Russia Today and China's Xinhua, whose editorial decisions are heavily influenced by their respective state regimes, as USA Today noted. Meanwhile, both NPR and PBS fall in the middle - or neutral - part of the Ad Fontes media **bias** chart.
