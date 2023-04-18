@@ -71,4 +71,3 @@
     + Yes, I do. (no contraction)
     + No, I don't.
 
-## Common Errors
