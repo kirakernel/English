@@ -34,6 +34,7 @@
 - [China appears to backtrack over no-fly zone near Taiwan](/articles/en/taiwan_president_defends_us_trip_as_island_set_to_begin_its_own_military_drills.md)
 - [PBS quits Twitter after being labeled 'government-funded media'](/articles/en/pbs_quits_twitter_government_funded_media_label_npr.md)
 - [Suspected IS fighters kill 26 desert truffle hunters in Syria](/articles/en/syria_suspected_islamic_state_fighters_kill_desert_truffle_hunters.md)
+- [At least 21 people killed in Beijing hospital fire](/articles/en/at_least_21_killed_beijing_hospital_fire.md)
 
 
 
